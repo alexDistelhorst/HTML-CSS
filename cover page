@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Alaskan Travels-Shay Hastler</title>
+
+<!--Search engine tags-->
+
+	<meta name="robots" content="INDEX,FOLLOW" />
+	<meta name="description" content="Alaskan Travels by Shay Hastler. Specializing in Alaska Tours and Alaskan Cruises, business established in 2014, 31 years of experience in Alaska and world travel." />
+	<meta name="keywords" content="Alaskan Travels, Alaska, Travel" />
+    
+<!--Prevention from being indexed by search engines-->
+	
+	<META name="robots" content="NOINDEX, NOFOLLOW, NOYDIR, NOODP, NOARCHIVE" />
+    <META name="googlebot" content="NOARCHIVE, NOODP, NOSNIPPET" />
+    <META name="slurp" content="NOARCHIVE, NOYDIR, NOSNIPPET" />
+    <meta name="robots" content="noimageindex">
+    
+<!--Link to style-->
+
+	<link href="picstyle.css" rel="stylesheet" type="text/css" media="screen">
+    <link href="fluidation.css" rel="stylesheet" type="text/css" media="screen>
+</head>
+
+<body>
+
+	<div id="cover">
+    <a href="index.html"><img src="../pictures/HD/IMAG1263.jpg" width="1400" height="720"></a>
+    </div>
+    
+    
+    <div id="footer">
+		<p>©COPYRIGHTS 2015, ALEX DISTELHORST. All rights reserved</p>
+	</div>
+
+
+</body>
+</html>
