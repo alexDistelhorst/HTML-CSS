@@ -1,0 +1,152 @@
+<!-- InstanceBegin template="/Templates/indexTemp.dwt" codeOutsideHTMLIsLocked="false" --><!DOCTYPE html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Alaskan Travels-Shay Hastler</title>
+<!-- InstanceEndEditable -->
+<!--Search engine tags-->
+
+	<meta name="robots" content="INDEX,FOLLOW" />
+	<meta name="description" content="Alaskan Travels by Shay Hastler. Specializing in Alaska Tours and Alaskan Cruises, business established in 2014, 31 years of experience in Alaska and world travel." />
+	<meta name="keywords" content="Alaskan Travels, Alaska, Travel" />
+    
+<!--Prevention from being indexed by search engines-->
+	
+	<META name="robots" content="NOINDEX, NOFOLLOW, NOYDIR, NOODP, NOARCHIVE" />
+    <META name="googlebot" content="NOARCHIVE, NOODP, NOSNIPPET" />
+    <META name="slurp" content="NOARCHIVE, NOYDIR, NOSNIPPET" />
+    <meta name="robots" content="noimageindex">
+    
+<!--Link to style-->
+
+	<link href="styles.css" rel="stylesheet" type="text/css" media="screen">
+
+</head>
+
+<body>
+
+<div id="outer">
+<div id="wrapper">
+	
+		
+		
+		<div id="banner"> <!--Logo-->
+	   		<a href="index.html"><img src="../pictures/BG/untitled.jpg" alt="Logo-Traveling the world with Alaskan Travels" width="200" height="150" ></a>
+            Traveling the world with|Alaskan Travels	
+	</div>
+		
+		
+        <div id="nav">
+          <h4><a href="index.html"> HOME</a></h4>
+          <h4><a href="about.html">ABOUT</a></h4>
+          <h4><a href="services.html">TRAVEL INFO</a></h4>
+          <h4><a href="gallery.html">GALLERY</a></h4>
+          <h4><a href="contacts.html">CONTACTS</a></h4>
+          <h4><a href="maps.html">MAPS</a></h4>
+  </div>
+    	
+        
+        
+    <ul class="slides">
+    
+    <input type="radio" name="radio-btn" id="img-1" checked />
+    <li class="slide-container">
+		<div class="slide">
+			<img src="../pictures/HD/IMAG1163.jpg">
+        </div>
+		<div class="nav">
+			<label for="img-6" class="prev">&#x2039;</label>
+			<label for="img-2" class="next">&#x203a;</label>
+		</div>
+    </li>
+
+    <input type="radio" name="radio-btn" id="img-2" />
+    <li class="slide-container">
+        <div class="slide">
+          <img src="../pictures/BG/IMG_0320.JPG" >
+        </div>
+		<div class="nav">
+			<label for="img-1" class="prev">&#x2039;</label>
+			<label for="img-3" class="next">&#x203a;</label>
+		</div>
+    </li>
+
+    <input type="radio" name="radio-btn" id="img-3" />
+    <li class="slide-container">
+        <div class="slide">
+          <img src="../pictures/2+/IMG_0263.JPG" >
+        </div>
+		<div class="nav">
+			<label for="img-2" class="prev">&#x2039;</label>
+			<label for="img-4" class="next">&#x203a;</label>
+		</div>
+    </li>
+
+    <input type="radio" name="radio-btn" id="img-4" />
+    <li class="slide-container">
+        <div class="slide">
+          <img src="../pictures/MH/IMG_0242.JPG" width="1024" height="768">
+        </div>
+		<div class="nav">
+			<label for="img-3" class="prev">&#x2039;</label>
+			<label for="img-5" class="next">&#x203a;</label>
+		</div>
+    </li>
+
+    <input type="radio" name="radio-btn" id="img-5" />
+    <li class="slide-container">
+        <div class="slide">
+          <img src="../pictures/MH/IMG_0435.JPG" >
+        </div>
+		<div class="nav">
+			<label for="img-4" class="prev">&#x2039;</label>
+			<label for="img-6" class="next">&#x203a;</label>
+		</div>
+    </li>
+
+    <input type="radio" name="radio-btn" id="img-6" />
+    <li class="slide-container">
+        <div class="slide">
+          <img src="../pictures/MH/IMAG1148.jpg" >
+        </div>
+		<div class="nav">
+		  <label for="img-5" class="prev">&#x2039;</label>
+			<label for="img-1" class="next">&#x203a;</label>
+		</div>
+    </li>
+
+    <li class="nav-dots">
+      <label for="img-1" class="nav-dot" id="img-dot-1"></label>
+      <label for="img-2" class="nav-dot" id="img-dot-2"></label>
+      <label for="img-3" class="nav-dot" id="img-dot-3"></label>
+      <label for="img-4" class="nav-dot" id="img-dot-4"></label>
+      <label for="img-5" class="nav-dot" id="img-dot-5"></label>
+      <label for="img-6" class="nav-dot" id="img-dot-6"></label>
+    </li>
+</ul>
+    <!-- InstanceBeginEditable name="Content" -->
+    <div id="rightside">
+      <h3>TRAVEL INFORMATION</h3>
+      <p> •	I often use Alaska Airlines &amp; Delta<br>
+      <p>Below are directing websites:<br>
+      <p><a href="http://www.alaskaair.com/">•AlaskaAir.com</a>      
+      <p><a href="http://www.delta.com/">•Delta.com</a>          
+      <p><a href="http://www.anchorage.net/">•Anchorage.net</a>     
+      <p><a href="https://www.adfg.alaska.gov/sf/FishingReports/index.cfm?ADFG=R2.reportDetail&area_key=1">•More about Anchorage</a>
+    </div>
+    <!-- InstanceEndEditable -->
+    <div id="footer">
+	  <p>©COPYRIGHTS 2015, ALEX DISTELHORST. All rights reserved</p>
+	</div>
+        
+
+</div>
+</div></div>
+
+</body>
+
+
+<!-- InstanceEnd --></html>
